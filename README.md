@@ -34,7 +34,8 @@ Hi there, I'm Truong Le Tan, a Software Engineering student from Vietnam.
 ## **My profile overview:** 
 
 ![Truong's github stats](https://github-readme-stats.vercel.app/api?username=truongletann&show_icons=true&theme=merko)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=truongletann&langs_count=5&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongletann&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 ##  Let's connect :speech_balloon: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px" style="color:black">
