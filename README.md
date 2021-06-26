@@ -38,6 +38,7 @@ Hi there, I'm Truong Le Tan, a Software Engineering student from Vietnam.
 
 <br />
 <br />
+
 ##  Let's connect :speech_balloon: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px" style="color:black">
 <a href="https://www.linkedin.com/in/truongletann/">
   <img align="left" alt="Truong's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
