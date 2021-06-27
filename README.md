@@ -32,7 +32,7 @@
 ## **My profile overview:** 
 
 ![Truong's github stats](https://github-readme-stats.vercel.app/api?username=truongletann&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongletann&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongletann&layout=compact&theme=merko&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
