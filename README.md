@@ -35,7 +35,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongletann&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-<br />
 
 ##  Let's connect :speech_balloon: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px" style="color:black">
 <a href="https://www.linkedin.com/in/truongletann/">
