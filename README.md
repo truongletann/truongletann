@@ -3,11 +3,9 @@
 ## Hi there 👋 I am [Truong Le Tan](https://github.com/truongletann)
 
 <div>
- <p>
-
-Hi there, I'm Truong Le Tan, a Software Engineering student from Vietnam.
-
-</h4>
+ <p >
+   Hi there, I'm Truong Le Tan, a student of FPT University at Software Engineering major. I am a kind of funny, humorous person. At work, I am a responsible person, eager to learn. I am interested in the field of technology and passionate to learn new technologies.
+</p>
 </div>
 
 <br />
