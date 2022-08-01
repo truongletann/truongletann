@@ -18,7 +18,7 @@
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc...
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via truongletan204@gmail.com to reach me.
-- 📝 See my [Truong Le Tan](...) to get more info.
+- 📝 See my [Truong Le Tan](https://truongletann.dev/) to get more info.
 
 <br />
 
