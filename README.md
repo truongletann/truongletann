@@ -30,10 +30,10 @@
 
 ## &#x1f4c8; **My profile overview:** 
 <a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=truongletann&show_icons=true&theme=merko" alt="Truong's GitHub Stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=truongletann&show_icons=true&theme=synthwave" alt="Truong's GitHub Stats" />
 </a>
 <a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongletann&layout=compact&theme=merko&langs_count=8" alt="Top Langs" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongletann&layout=compact&theme=synthwave&langs_count=8" alt="Top Langs" />
 </a>
 
 
