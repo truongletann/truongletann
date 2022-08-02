@@ -30,7 +30,7 @@
 
 ## &#x1f4c8; **My profile overview:** 
 <a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=truongletann&show_icons=true&theme=synthwave" alt="Truong's GitHub Stats"height="210" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=truongletann&show_icons=true&theme=synthwave" alt="Truong's GitHub Stats"height="200" />
 </a>
 <a href="">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongletann&layout=compact&theme=synthwave&langs_count=8" alt="Top Langs" />
