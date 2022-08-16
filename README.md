@@ -9,8 +9,9 @@
 </div>
 
 <br />
+<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/untitled-1.gif" /> -->
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/untitled-1.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ## **Talking about Personal Stuffs:**
 
