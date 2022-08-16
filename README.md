@@ -51,6 +51,9 @@
 <br />
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=truongletann.truongletann)
+
+![GitHub followers](https://img.shields.io/github/followers/truongletann?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/truongletann?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=truongletann.truongletann) <img src="https://komarev.com/ghpvc/?username=truongletann" alt="truongletann" />
 
 
